@@ -1,12 +1,14 @@
 # JavaScript-classes_objects-cw
-
-### Problem 1:
+#### No comments minus one point
+#### Check out my comments in your JS file
+#### Score : 1/5
+### Problem 1: PARTIAL
 Create a GitHubRepository class with properties userName, fileName, descriptionOfRepository, and code. Create a function that prints all properties. Create an object of the class and use the function.
 
-### Problem 2:
+### Problem 2: INCORRECT
 Create a Movie class with the following properties: movieName, rating, and yearReleased. Create a method to change the rating and another one to change the yearReleased properties using prompt. Create an object of the class and use the two methods you created.
 
-### Problem 3:
+### Problem 3: PARTIAL
 Create a Student class with the following properties : studentName, codeSchoolCohort, and grades(grades should be an array of objects and each object should have the properties assignemtName and assignemtnScore). Create a method that accepts a student name and updates the studentName of an instance of your Student Class. Create a method that accepts an assignment name and assignment score and adds a grade object to the grades array. Create two instances of this class with empty grade arrays. Update the name of one instance of the Student Class using the class method. Add one grade object to each instance of the Student Class grade array using the class method.
 
 HINT : use object literal notation to create a grade object in the grade array for each instance of the Student Class
